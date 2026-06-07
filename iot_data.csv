@@ -1,0 +1,56 @@
+device_id,location,temperature,humidity,air_quality,traffic_density,timestamp
+sensor_istanbul_001,Istanbul Smart City Zone,32.72,66.17,124,99,2026-06-07 23:32:50
+sensor_istanbul_001,Istanbul Smart City Zone,26.08,57.34,89,89,2026-06-07 23:32:53
+sensor_istanbul_001,Istanbul Smart City Zone,30.4,48.2,119,49,2026-06-07 23:32:56
+sensor_istanbul_001,Istanbul Smart City Zone,30.55,41.28,70,100,2026-06-07 23:32:59
+sensor_istanbul_001,Istanbul Smart City Zone,25.81,40.02,50,56,2026-06-07 23:33:02
+sensor_istanbul_001,Istanbul Smart City Zone,34.32,51.63,113,20,2026-06-07 23:33:05
+sensor_istanbul_001,Istanbul Smart City Zone,23.6,43.6,122,58,2026-06-07 23:33:08
+sensor_istanbul_001,Istanbul Smart City Zone,20.51,78.87,124,87,2026-06-07 23:33:11
+sensor_istanbul_001,Istanbul Smart City Zone,31.59,75.32,68,38,2026-06-07 23:33:14
+sensor_istanbul_001,Istanbul Smart City Zone,20.03,77.84,108,73,2026-06-07 23:33:17
+sensor_istanbul_001,Istanbul Smart City Zone,32.23,49.42,32,78,2026-06-07 23:33:20
+sensor_istanbul_001,Istanbul Smart City Zone,26.73,54.71,119,94,2026-06-07 23:33:23
+sensor_istanbul_001,Istanbul Smart City Zone,24.93,71.81,78,50,2026-06-07 23:33:26
+sensor_istanbul_001,Istanbul Smart City Zone,30.8,58.29,91,73,2026-06-07 23:33:29
+sensor_istanbul_001,Istanbul Smart City Zone,20.38,49.49,20,44,2026-06-07 23:33:32
+sensor_istanbul_001,Istanbul Smart City Zone,22.46,53.96,108,42,2026-06-07 23:33:35
+sensor_istanbul_001,Istanbul Smart City Zone,24.49,48.92,106,28,2026-06-07 23:33:38
+sensor_istanbul_001,Istanbul Smart City Zone,21.1,73.55,23,6,2026-06-07 23:33:41
+sensor_istanbul_001,Istanbul Smart City Zone,21.69,60.62,127,46,2026-06-07 23:33:44
+sensor_istanbul_001,Istanbul Smart City Zone,32.34,40.12,148,69,2026-06-07 23:33:47
+sensor_istanbul_001,Istanbul Smart City Zone,20.75,73.32,107,89,2026-06-07 23:33:50
+sensor_istanbul_001,Istanbul Smart City Zone,26.78,73.31,60,34,2026-06-07 23:33:53
+sensor_istanbul_001,Istanbul Smart City Zone,28.2,73.37,129,27,2026-06-07 23:33:57
+sensor_istanbul_001,Istanbul Smart City Zone,28.01,46.44,64,94,2026-06-07 23:34:00
+sensor_istanbul_001,Istanbul Smart City Zone,32.34,58.02,82,39,2026-06-07 23:34:03
+sensor_istanbul_001,Istanbul Smart City Zone,29.04,44.12,56,28,2026-06-07 23:34:06
+sensor_istanbul_001,Istanbul Smart City Zone,32.03,57.76,77,0,2026-06-07 23:34:09
+sensor_istanbul_001,Istanbul Smart City Zone,24.92,57.02,104,45,2026-06-07 23:34:12
+traffic_sensor_001,Maslak Main Road,26.61,77.01,143,36,2026-06-07 23:46:29
+air_quality_sensor_001,Istanbul City Center,34.06,41.27,88,55,2026-06-07 23:46:29
+weather_sensor_001,Koc University Area,34.2,59.44,119,75,2026-06-07 23:46:29
+traffic_sensor_001,Maslak Main Road,31.27,38.26,89,73,2026-06-07 23:46:32
+air_quality_sensor_001,Istanbul City Center,31.9,70.46,55,39,2026-06-07 23:46:32
+weather_sensor_001,Koc University Area,30.52,40.55,49,31,2026-06-07 23:46:32
+traffic_sensor_001,Maslak Main Road,24.71,66.39,56,17,2026-06-07 23:46:35
+air_quality_sensor_001,Istanbul City Center,22.79,54.92,115,26,2026-06-07 23:46:35
+weather_sensor_001,Koc University Area,30.11,54.65,102,46,2026-06-07 23:46:35
+traffic_sensor_001,Maslak Main Road,34.12,35.14,44,57,2026-06-07 23:46:38
+air_quality_sensor_001,Istanbul City Center,18.58,48.99,33,24,2026-06-07 23:46:38
+weather_sensor_001,Koc University Area,20.48,35.95,43,81,2026-06-07 23:46:38
+traffic_sensor_001,Maslak Main Road,30.76,38.77,41,26,2026-06-07 23:46:41
+air_quality_sensor_001,Istanbul City Center,20.16,57.11,87,33,2026-06-07 23:46:41
+weather_sensor_001,Koc University Area,31.85,44.68,126,95,2026-06-07 23:46:41
+traffic_sensor_001,Maslak Main Road,18.34,61.78,124,47,2026-06-07 23:46:44
+air_quality_sensor_001,Istanbul City Center,30.34,45.49,129,2,2026-06-07 23:46:44
+weather_sensor_001,Koc University Area,27.47,72.02,99,73,2026-06-07 23:46:44
+traffic_sensor_001,Maslak Main Road,28.16,73.07,133,39,2026-06-07 23:46:47
+air_quality_sensor_001,Istanbul City Center,28.35,53.42,58,79,2026-06-07 23:46:47
+weather_sensor_001,Koc University Area,18.76,64.38,122,77,2026-06-07 23:46:47
+traffic_sensor_001,Maslak Main Road,18.54,47.43,56,89,2026-06-07 23:46:50
+air_quality_sensor_001,Istanbul City Center,29.83,65.3,74,9,2026-06-07 23:46:50
+weather_sensor_001,Koc University Area,22.74,38.3,89,69,2026-06-07 23:46:50
+traffic_sensor_001,Maslak Main Road,21.98,43.53,78,73,2026-06-07 23:46:53
+air_quality_sensor_001,Istanbul City Center,32.09,75.48,80,49,2026-06-07 23:46:53
+weather_sensor_001,Koc University Area,30.03,58.47,146,69,2026-06-07 23:46:53
