@@ -1,4 +1,3 @@
-# Akilli-Sehir-IoT-Projesi
 # Akıllı Şehir IoT İzleme Sistemi
 
 ## Proje Hakkında
